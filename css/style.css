@@ -1,8 +1,6 @@
-@import url(./style2.css);
+/* @import url(./style2.css); */
 body {
     margin: auto;
-    align-items: center;
-    font-weight: bold;
 }
 
 /* #region copertina */
@@ -59,11 +57,16 @@ main {
 }
 
 .didascalia {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .Evidenziazione {
     background-color: yellow;
+}
+
+.Plist{
+    list-style-position: inside;
+    padding-left: 0;
 }
 
 table {
@@ -87,7 +90,7 @@ table {
     background-color: rgb(120, 200, 227);
 }
 
-.thirdRow {}
+
 
 #suggerimenti {
     font-size: 15px;
