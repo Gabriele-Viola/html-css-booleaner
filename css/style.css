@@ -1,0 +1,10 @@
+#copertina {
+    padding-top: 5%;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(145, 223, 252);
+    background-repeat: repeat;
+    background-size: contain;
+}
+#logo{
+    width: 20%;
+}
