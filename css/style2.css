@@ -1,4 +1,3 @@
-@import url(./style2.css);
 body {
     margin: auto;
     align-items: center;
@@ -21,18 +20,19 @@ body {
 
 #logo {
     width: 20%;
-    margin: 0% 10% 0%;
+    /* margin: 0% 30% 0%; */
 }
 
 /* #Endregion copertina */
 
 header {
-    margin: 0% 10% 0%;
+    margin: 0% 30% 0%;
 }
 
 main {
-    margin: 0% 10% 0%;
+    /* margin: 0% 30% 0%; */
     font-size: 15px;
+    text-align: center;
 
 }
 
@@ -113,3 +113,4 @@ table {
     color: white;
     padding: 10px;
 }
+
