@@ -1,6 +1,7 @@
 body {
     margin: auto;
     align-items: center;
+    text-align: center;
     font-weight: bold;
 }
 
@@ -20,17 +21,17 @@ body {
 
 #logo {
     width: 20%;
-    /* margin: 0% 30% 0%; */
+    margin: 0% 30% 0%;
 }
 
 /* #Endregion copertina */
 
 header {
-    margin: 0% 30% 0%;
+    margin: 0% 50% 0%;
 }
 
 main {
-    /* margin: 0% 30% 0%; */
+    margin: 0% 50% 0%;
     font-size: 15px;
     text-align: center;
 
@@ -92,6 +93,7 @@ table {
 #suggerimenti {
     font-size: 15px;
     color: grey;
+   /* margin: auto; */
 }
 
 #PurpleMonitor {
@@ -105,6 +107,7 @@ table {
 }
 
 #statistiche {
+    align-items: center;
     margin-bottom: 15px;
     width: 200px;
     height: 150px;
@@ -113,4 +116,6 @@ table {
     color: white;
     padding: 10px;
 }
-
+.Psuggerimenti{
+    margin: 0 30% 0;
+}
